@@ -1,0 +1,32 @@
+body {
+  margin: 0;
+  font-family: "Dosis", sans-serif;
+}
+
+header {
+  display: flex;
+  justify-content: space-between;
+  flex-direction: row;
+  align-items: center;
+}
+
+a {
+  text-decoration: none;
+  color: #4cb2b2;
+}
+
+a:hover {
+  background-color: #7cd0d0;
+  color: #dbefef;
+}
+
+ul {
+  list-style: none;
+  display: flex;
+}
+
+li {
+  padding: 15px;
+}
+
+@media min-width;
